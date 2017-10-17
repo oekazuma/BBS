@@ -1,2 +1,2 @@
 # bbs
-## PHP,jQuery,MySQL 
+## PHP jQuery MySQL 
